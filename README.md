@@ -7,7 +7,7 @@
 	Real-time visualization of people emotions around the world through sentiment analysis of Twitter data
 
 ## Team Members:
-	Afnan Aldhahri | Busun Kim | Madeleine Crouch | Rsha Mirza | Tahani Almanie
+	Tahani Almanie | Busun Kim | Afnan Aldhahri | Rsha Mirza | Madeleine Crouch
 
 ## Course:
 	Big Data | Spring 2016 | University of Colorado Boulder | Professor: Greg Greenstreet
